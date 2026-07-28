@@ -1,6 +1,5 @@
 text="aman"
 
-s=""
     
 if text==text[::-1]:
     print("pallindrom")
