@@ -3,6 +3,13 @@
 
 # print(num1 / num2)
 #EX2
-numbers = [10, 20, 30]
+# numbers = [10, 20, 30]
 
-print(numbers[5])
+# print(numbers[5])
+
+#Ex3
+student = {
+    "name": "Suraj"
+}
+
+print(student["age"])
